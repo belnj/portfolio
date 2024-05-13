@@ -31,7 +31,7 @@ export default function Home() {
             </p>
           </a>
           <a
-            href="/BJcv.pdf" 
+            href="https://belnj.github.io/nextjs-minimalist-portfolio//BJcv.pdf" 
             className="ml-7 pl-7"
             download 
             target="_blank"
